@@ -1,4 +1,4 @@
-import java.util.*;
+
 class advpattern{
     public static void main(String[] args) {
         int n=8;
